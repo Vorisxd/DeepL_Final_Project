@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "rag-project"
+version = "0.1.0"
+description = "Rag model for zyplai Datascience course"
+authors = ["Voris Davlatzoda"]
+
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+langchain = "^0.3.8"
+ipykernel = "^6.29.5"
+llama-cpp-python = "^0.3.2"
+langchain-community = "^0.3.8"
+scikit-learn = "^1.5.2"
+chromadb = "^0.5.20"
+docx2txt = "^0.8"
+pdfplumber = "^0.11.4"
+bs4 = "^0.0.2"
+tqdm = "^4.67.1"
+wikipedia = "^1.4.0"
+sentence-transformers = "^3.3.1"
+loguru = "^0.7.2"
+langchain-huggingface = "^0.1.2"
+langchain-chroma = "^0.1.4"
+streamlit = "^1.40.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

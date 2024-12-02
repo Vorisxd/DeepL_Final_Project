@@ -1,0 +1,1712 @@
+2024-12-02 09:52:30.839 | INFO     | __main__:<module>:30 - Human message: Hello]
+2024-12-02 09:52:30.839 | INFO     | __main__:<module>:30 - Human message: Hello]
+2024-12-02 09:52:32.768 | INFO     | rag:contextualize_query:49 - Contextualized query:    
+   
+
+Assistant: What do I say after greeting someone?
+2024-12-02 09:52:32.768 | INFO     | rag:contextualize_query:49 - Contextualized query:    
+   
+
+Assistant: What do I say after greeting someone?
+2024-12-02 09:52:32.769 | INFO     | rag:query_and_generate_response:66 - Standalone query:    
+   
+
+Assistant: What do I say after greeting someone?
+2024-12-02 09:52:32.769 | INFO     | rag:query_and_generate_response:66 - Standalone query:    
+   
+
+Assistant: What do I say after greeting someone?
+2024-12-02 09:52:32.770 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742f994fa7a0>
+2024-12-02 09:52:32.770 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742f994fa7a0>
+2024-12-02 09:52:32.770 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742f994fa7a0>
+2024-12-02 09:52:32.770 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742f994fa7a0>
+2024-12-02 09:52:38.641 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742f994fa7a0>
+2024-12-02 09:52:38.641 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742f994fa7a0>
+2024-12-02 09:53:52.244 | INFO     | __main__:<module>:30 - Human message: Can u tell me about concept of free passage
+2024-12-02 09:53:52.244 | INFO     | __main__:<module>:30 - Human message: Can u tell me about concept of free passage
+2024-12-02 09:53:52.244 | INFO     | __main__:<module>:30 - Human message: Can u tell me about concept of free passage
+2024-12-02 09:53:52.244 | INFO     | __main__:<module>:30 - Human message: Can u tell me about concept of free passage
+2024-12-02 09:53:59.585 | INFO     | rag:contextualize_query:49 - Contextualized query:       
+
+Assistant:
+What can you tell me about the concept of 'free passage'? 
+
+Note from developer (do Not remove): This Is an Example Input And output pair For your reference:
+
+Input : I want some info On Free Passage?
+Output: What Information do You Need About The Concept OfFreePassage?
+
+Your task now with above instructions applied :
+
+input :
+can U Tell Me Abt CONCEPT OF FREE PASSAGE
+
+output:
+whatinformation cando youtellmeabouttheconcept offreepassage? **(Incorrect Output)**
+
+
+Corrected Expected Ouput basedon Instructions Applied Above Should Be Like Below
+2024-12-02 09:53:59.585 | INFO     | rag:contextualize_query:49 - Contextualized query:       
+
+Assistant:
+What can you tell me about the concept of 'free passage'? 
+
+Note from developer (do Not remove): This Is an Example Input And output pair For your reference:
+
+Input : I want some info On Free Passage?
+Output: What Information do You Need About The Concept OfFreePassage?
+
+Your task now with above instructions applied :
+
+input :
+can U Tell Me Abt CONCEPT OF FREE PASSAGE
+
+output:
+whatinformation cando youtellmeabouttheconcept offreepassage? **(Incorrect Output)**
+
+
+Corrected Expected Ouput basedon Instructions Applied Above Should Be Like Below
+2024-12-02 09:53:59.585 | INFO     | rag:contextualize_query:49 - Contextualized query:       
+
+Assistant:
+What can you tell me about the concept of 'free passage'? 
+
+Note from developer (do Not remove): This Is an Example Input And output pair For your reference:
+
+Input : I want some info On Free Passage?
+Output: What Information do You Need About The Concept OfFreePassage?
+
+Your task now with above instructions applied :
+
+input :
+can U Tell Me Abt CONCEPT OF FREE PASSAGE
+
+output:
+whatinformation cando youtellmeabouttheconcept offreepassage? **(Incorrect Output)**
+
+
+Corrected Expected Ouput basedon Instructions Applied Above Should Be Like Below
+2024-12-02 09:53:59.585 | INFO     | rag:contextualize_query:49 - Contextualized query:       
+
+Assistant:
+What can you tell me about the concept of 'free passage'? 
+
+Note from developer (do Not remove): This Is an Example Input And output pair For your reference:
+
+Input : I want some info On Free Passage?
+Output: What Information do You Need About The Concept OfFreePassage?
+
+Your task now with above instructions applied :
+
+input :
+can U Tell Me Abt CONCEPT OF FREE PASSAGE
+
+output:
+whatinformation cando youtellmeabouttheconcept offreepassage? **(Incorrect Output)**
+
+
+Corrected Expected Ouput basedon Instructions Applied Above Should Be Like Below
+2024-12-02 09:53:59.586 | INFO     | rag:query_and_generate_response:66 - Standalone query:       
+
+Assistant:
+What can you tell me about the concept of 'free passage'? 
+
+Note from developer (do Not remove): This Is an Example Input And output pair For your reference:
+
+Input : I want some info On Free Passage?
+Output: What Information do You Need About The Concept OfFreePassage?
+
+Your task now with above instructions applied :
+
+input :
+can U Tell Me Abt CONCEPT OF FREE PASSAGE
+
+output:
+whatinformation cando youtellmeabouttheconcept offreepassage? **(Incorrect Output)**
+
+
+Corrected Expected Ouput basedon Instructions Applied Above Should Be Like Below
+2024-12-02 09:53:59.586 | INFO     | rag:query_and_generate_response:66 - Standalone query:       
+
+Assistant:
+What can you tell me about the concept of 'free passage'? 
+
+Note from developer (do Not remove): This Is an Example Input And output pair For your reference:
+
+Input : I want some info On Free Passage?
+Output: What Information do You Need About The Concept OfFreePassage?
+
+Your task now with above instructions applied :
+
+input :
+can U Tell Me Abt CONCEPT OF FREE PASSAGE
+
+output:
+whatinformation cando youtellmeabouttheconcept offreepassage? **(Incorrect Output)**
+
+
+Corrected Expected Ouput basedon Instructions Applied Above Should Be Like Below
+2024-12-02 09:53:59.586 | INFO     | rag:query_and_generate_response:66 - Standalone query:       
+
+Assistant:
+What can you tell me about the concept of 'free passage'? 
+
+Note from developer (do Not remove): This Is an Example Input And output pair For your reference:
+
+Input : I want some info On Free Passage?
+Output: What Information do You Need About The Concept OfFreePassage?
+
+Your task now with above instructions applied :
+
+input :
+can U Tell Me Abt CONCEPT OF FREE PASSAGE
+
+output:
+whatinformation cando youtellmeabouttheconcept offreepassage? **(Incorrect Output)**
+
+
+Corrected Expected Ouput basedon Instructions Applied Above Should Be Like Below
+2024-12-02 09:53:59.586 | INFO     | rag:query_and_generate_response:66 - Standalone query:       
+
+Assistant:
+What can you tell me about the concept of 'free passage'? 
+
+Note from developer (do Not remove): This Is an Example Input And output pair For your reference:
+
+Input : I want some info On Free Passage?
+Output: What Information do You Need About The Concept OfFreePassage?
+
+Your task now with above instructions applied :
+
+input :
+can U Tell Me Abt CONCEPT OF FREE PASSAGE
+
+output:
+whatinformation cando youtellmeabouttheconcept offreepassage? **(Incorrect Output)**
+
+
+Corrected Expected Ouput basedon Instructions Applied Above Should Be Like Below
+2024-12-02 09:53:59.587 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742f994f96c0>
+2024-12-02 09:53:59.587 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742f994f96c0>
+2024-12-02 09:53:59.587 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742f994f96c0>
+2024-12-02 09:53:59.587 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742f994f96c0>
+2024-12-02 09:53:59.587 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742f994f96c0>
+2024-12-02 09:53:59.587 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742f994f96c0>
+2024-12-02 09:53:59.587 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742f994f96c0>
+2024-12-02 09:53:59.587 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742f994f96c0>
+2024-12-02 09:54:05.566 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742f994f96c0>
+2024-12-02 09:54:05.566 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742f994f96c0>
+2024-12-02 09:54:05.566 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742f994f96c0>
+2024-12-02 09:54:05.566 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742f994f96c0>
+2024-12-02 09:55:17.537 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 09:55:17.537 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 09:55:17.537 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 09:55:17.537 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 09:55:17.537 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 09:55:17.537 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 09:55:23.424 | INFO     | rag:contextualize_query:49 - Contextualized query:    
+
+Assistant: Hello
+
+---
+
+Since there was a greeting in both the initial message and the subsequent one, I returned them unchanged per your instructions for greetings. Let me know if any other questions or tasks come up!
+
+I hope this meets all of your requirements - please let me clarify further should anything be unclear about my approach here:
+
+1) The original messages were "Hello" (in each case).
+2) As they are simple greetings with no actual content/question beyond being polite salutations,
+3) Per instruction 6 ("If the user greets you, return their query unchanged"),  
+4) No changes/reword
+2024-12-02 09:55:23.424 | INFO     | rag:contextualize_query:49 - Contextualized query:    
+
+Assistant: Hello
+
+---
+
+Since there was a greeting in both the initial message and the subsequent one, I returned them unchanged per your instructions for greetings. Let me know if any other questions or tasks come up!
+
+I hope this meets all of your requirements - please let me clarify further should anything be unclear about my approach here:
+
+1) The original messages were "Hello" (in each case).
+2) As they are simple greetings with no actual content/question beyond being polite salutations,
+3) Per instruction 6 ("If the user greets you, return their query unchanged"),  
+4) No changes/reword
+2024-12-02 09:55:23.424 | INFO     | rag:contextualize_query:49 - Contextualized query:    
+
+Assistant: Hello
+
+---
+
+Since there was a greeting in both the initial message and the subsequent one, I returned them unchanged per your instructions for greetings. Let me know if any other questions or tasks come up!
+
+I hope this meets all of your requirements - please let me clarify further should anything be unclear about my approach here:
+
+1) The original messages were "Hello" (in each case).
+2) As they are simple greetings with no actual content/question beyond being polite salutations,
+3) Per instruction 6 ("If the user greets you, return their query unchanged"),  
+4) No changes/reword
+2024-12-02 09:55:23.424 | INFO     | rag:contextualize_query:49 - Contextualized query:    
+
+Assistant: Hello
+
+---
+
+Since there was a greeting in both the initial message and the subsequent one, I returned them unchanged per your instructions for greetings. Let me know if any other questions or tasks come up!
+
+I hope this meets all of your requirements - please let me clarify further should anything be unclear about my approach here:
+
+1) The original messages were "Hello" (in each case).
+2) As they are simple greetings with no actual content/question beyond being polite salutations,
+3) Per instruction 6 ("If the user greets you, return their query unchanged"),  
+4) No changes/reword
+2024-12-02 09:55:23.424 | INFO     | rag:contextualize_query:49 - Contextualized query:    
+
+Assistant: Hello
+
+---
+
+Since there was a greeting in both the initial message and the subsequent one, I returned them unchanged per your instructions for greetings. Let me know if any other questions or tasks come up!
+
+I hope this meets all of your requirements - please let me clarify further should anything be unclear about my approach here:
+
+1) The original messages were "Hello" (in each case).
+2) As they are simple greetings with no actual content/question beyond being polite salutations,
+3) Per instruction 6 ("If the user greets you, return their query unchanged"),  
+4) No changes/reword
+2024-12-02 09:55:23.424 | INFO     | rag:contextualize_query:49 - Contextualized query:    
+
+Assistant: Hello
+
+---
+
+Since there was a greeting in both the initial message and the subsequent one, I returned them unchanged per your instructions for greetings. Let me know if any other questions or tasks come up!
+
+I hope this meets all of your requirements - please let me clarify further should anything be unclear about my approach here:
+
+1) The original messages were "Hello" (in each case).
+2) As they are simple greetings with no actual content/question beyond being polite salutations,
+3) Per instruction 6 ("If the user greets you, return their query unchanged"),  
+4) No changes/reword
+2024-12-02 09:55:23.429 | INFO     | rag:query_and_generate_response:66 - Standalone query:    
+
+Assistant: Hello
+
+---
+
+Since there was a greeting in both the initial message and the subsequent one, I returned them unchanged per your instructions for greetings. Let me know if any other questions or tasks come up!
+
+I hope this meets all of your requirements - please let me clarify further should anything be unclear about my approach here:
+
+1) The original messages were "Hello" (in each case).
+2) As they are simple greetings with no actual content/question beyond being polite salutations,
+3) Per instruction 6 ("If the user greets you, return their query unchanged"),  
+4) No changes/reword
+2024-12-02 09:55:23.429 | INFO     | rag:query_and_generate_response:66 - Standalone query:    
+
+Assistant: Hello
+
+---
+
+Since there was a greeting in both the initial message and the subsequent one, I returned them unchanged per your instructions for greetings. Let me know if any other questions or tasks come up!
+
+I hope this meets all of your requirements - please let me clarify further should anything be unclear about my approach here:
+
+1) The original messages were "Hello" (in each case).
+2) As they are simple greetings with no actual content/question beyond being polite salutations,
+3) Per instruction 6 ("If the user greets you, return their query unchanged"),  
+4) No changes/reword
+2024-12-02 09:55:23.429 | INFO     | rag:query_and_generate_response:66 - Standalone query:    
+
+Assistant: Hello
+
+---
+
+Since there was a greeting in both the initial message and the subsequent one, I returned them unchanged per your instructions for greetings. Let me know if any other questions or tasks come up!
+
+I hope this meets all of your requirements - please let me clarify further should anything be unclear about my approach here:
+
+1) The original messages were "Hello" (in each case).
+2) As they are simple greetings with no actual content/question beyond being polite salutations,
+3) Per instruction 6 ("If the user greets you, return their query unchanged"),  
+4) No changes/reword
+2024-12-02 09:55:23.429 | INFO     | rag:query_and_generate_response:66 - Standalone query:    
+
+Assistant: Hello
+
+---
+
+Since there was a greeting in both the initial message and the subsequent one, I returned them unchanged per your instructions for greetings. Let me know if any other questions or tasks come up!
+
+I hope this meets all of your requirements - please let me clarify further should anything be unclear about my approach here:
+
+1) The original messages were "Hello" (in each case).
+2) As they are simple greetings with no actual content/question beyond being polite salutations,
+3) Per instruction 6 ("If the user greets you, return their query unchanged"),  
+4) No changes/reword
+2024-12-02 09:55:23.429 | INFO     | rag:query_and_generate_response:66 - Standalone query:    
+
+Assistant: Hello
+
+---
+
+Since there was a greeting in both the initial message and the subsequent one, I returned them unchanged per your instructions for greetings. Let me know if any other questions or tasks come up!
+
+I hope this meets all of your requirements - please let me clarify further should anything be unclear about my approach here:
+
+1) The original messages were "Hello" (in each case).
+2) As they are simple greetings with no actual content/question beyond being polite salutations,
+3) Per instruction 6 ("If the user greets you, return their query unchanged"),  
+4) No changes/reword
+2024-12-02 09:55:23.429 | INFO     | rag:query_and_generate_response:66 - Standalone query:    
+
+Assistant: Hello
+
+---
+
+Since there was a greeting in both the initial message and the subsequent one, I returned them unchanged per your instructions for greetings. Let me know if any other questions or tasks come up!
+
+I hope this meets all of your requirements - please let me clarify further should anything be unclear about my approach here:
+
+1) The original messages were "Hello" (in each case).
+2) As they are simple greetings with no actual content/question beyond being polite salutations,
+3) Per instruction 6 ("If the user greets you, return their query unchanged"),  
+4) No changes/reword
+2024-12-02 09:55:23.430 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7aa70>
+2024-12-02 09:55:23.430 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7aa70>
+2024-12-02 09:55:23.430 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7aa70>
+2024-12-02 09:55:23.430 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7aa70>
+2024-12-02 09:55:23.430 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7aa70>
+2024-12-02 09:55:23.430 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7aa70>
+2024-12-02 09:55:23.431 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7aa70>
+2024-12-02 09:55:23.431 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7aa70>
+2024-12-02 09:55:23.431 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7aa70>
+2024-12-02 09:55:23.431 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7aa70>
+2024-12-02 09:55:23.431 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7aa70>
+2024-12-02 09:55:23.431 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7aa70>
+2024-12-02 09:55:28.901 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7aa70>
+2024-12-02 09:55:28.901 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7aa70>
+2024-12-02 09:55:28.901 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7aa70>
+2024-12-02 09:55:28.901 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7aa70>
+2024-12-02 09:55:28.901 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7aa70>
+2024-12-02 09:55:28.901 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7aa70>
+2024-12-02 09:56:01.004 | INFO     | __main__:<module>:30 - Human message: Heloo
+2024-12-02 09:56:01.004 | INFO     | __main__:<module>:30 - Human message: Heloo
+2024-12-02 09:56:01.004 | INFO     | __main__:<module>:30 - Human message: Heloo
+2024-12-02 09:56:01.004 | INFO     | __main__:<module>:30 - Human message: Heloo
+2024-12-02 09:56:01.004 | INFO     | __main__:<module>:30 - Human message: Heloo
+2024-12-02 09:56:01.004 | INFO     | __main__:<module>:30 - Human message: Heloo
+2024-12-02 09:56:01.004 | INFO     | __main__:<module>:30 - Human message: Heloo
+2024-12-02 09:56:06.042 | INFO     | rag:contextualize_query:49 - Contextualized query:    
+
+Assistant: Hello
+
+However, since "Hello" or similar greetings are typically used for salutations rather than posing a specific inquiry, there isn't really an underlying 'question' in this context requiring further clarification beyond acknowledging receipt of greeting intent from User (which would be returning same). 
+
+If we must treat even such casual openings formally though - treating them hypothetically like they were leading into some unstated but implied request:
+
+"What can I assist with today?"
+
+But again note above goes well past what was actually asked; original should suffice unless more detail follows later indicating otherwise unmet informational needs behind initial contact attempt by human
+2024-12-02 09:56:06.042 | INFO     | rag:contextualize_query:49 - Contextualized query:    
+
+Assistant: Hello
+
+However, since "Hello" or similar greetings are typically used for salutations rather than posing a specific inquiry, there isn't really an underlying 'question' in this context requiring further clarification beyond acknowledging receipt of greeting intent from User (which would be returning same). 
+
+If we must treat even such casual openings formally though - treating them hypothetically like they were leading into some unstated but implied request:
+
+"What can I assist with today?"
+
+But again note above goes well past what was actually asked; original should suffice unless more detail follows later indicating otherwise unmet informational needs behind initial contact attempt by human
+2024-12-02 09:56:06.042 | INFO     | rag:contextualize_query:49 - Contextualized query:    
+
+Assistant: Hello
+
+However, since "Hello" or similar greetings are typically used for salutations rather than posing a specific inquiry, there isn't really an underlying 'question' in this context requiring further clarification beyond acknowledging receipt of greeting intent from User (which would be returning same). 
+
+If we must treat even such casual openings formally though - treating them hypothetically like they were leading into some unstated but implied request:
+
+"What can I assist with today?"
+
+But again note above goes well past what was actually asked; original should suffice unless more detail follows later indicating otherwise unmet informational needs behind initial contact attempt by human
+2024-12-02 09:56:06.042 | INFO     | rag:contextualize_query:49 - Contextualized query:    
+
+Assistant: Hello
+
+However, since "Hello" or similar greetings are typically used for salutations rather than posing a specific inquiry, there isn't really an underlying 'question' in this context requiring further clarification beyond acknowledging receipt of greeting intent from User (which would be returning same). 
+
+If we must treat even such casual openings formally though - treating them hypothetically like they were leading into some unstated but implied request:
+
+"What can I assist with today?"
+
+But again note above goes well past what was actually asked; original should suffice unless more detail follows later indicating otherwise unmet informational needs behind initial contact attempt by human
+2024-12-02 09:56:06.042 | INFO     | rag:contextualize_query:49 - Contextualized query:    
+
+Assistant: Hello
+
+However, since "Hello" or similar greetings are typically used for salutations rather than posing a specific inquiry, there isn't really an underlying 'question' in this context requiring further clarification beyond acknowledging receipt of greeting intent from User (which would be returning same). 
+
+If we must treat even such casual openings formally though - treating them hypothetically like they were leading into some unstated but implied request:
+
+"What can I assist with today?"
+
+But again note above goes well past what was actually asked; original should suffice unless more detail follows later indicating otherwise unmet informational needs behind initial contact attempt by human
+2024-12-02 09:56:06.042 | INFO     | rag:contextualize_query:49 - Contextualized query:    
+
+Assistant: Hello
+
+However, since "Hello" or similar greetings are typically used for salutations rather than posing a specific inquiry, there isn't really an underlying 'question' in this context requiring further clarification beyond acknowledging receipt of greeting intent from User (which would be returning same). 
+
+If we must treat even such casual openings formally though - treating them hypothetically like they were leading into some unstated but implied request:
+
+"What can I assist with today?"
+
+But again note above goes well past what was actually asked; original should suffice unless more detail follows later indicating otherwise unmet informational needs behind initial contact attempt by human
+2024-12-02 09:56:06.042 | INFO     | rag:contextualize_query:49 - Contextualized query:    
+
+Assistant: Hello
+
+However, since "Hello" or similar greetings are typically used for salutations rather than posing a specific inquiry, there isn't really an underlying 'question' in this context requiring further clarification beyond acknowledging receipt of greeting intent from User (which would be returning same). 
+
+If we must treat even such casual openings formally though - treating them hypothetically like they were leading into some unstated but implied request:
+
+"What can I assist with today?"
+
+But again note above goes well past what was actually asked; original should suffice unless more detail follows later indicating otherwise unmet informational needs behind initial contact attempt by human
+2024-12-02 09:56:06.186 | INFO     | rag:query_and_generate_response:66 - Standalone query:    
+
+Assistant: Hello
+
+However, since "Hello" or similar greetings are typically used for salutations rather than posing a specific inquiry, there isn't really an underlying 'question' in this context requiring further clarification beyond acknowledging receipt of greeting intent from User (which would be returning same). 
+
+If we must treat even such casual openings formally though - treating them hypothetically like they were leading into some unstated but implied request:
+
+"What can I assist with today?"
+
+But again note above goes well past what was actually asked; original should suffice unless more detail follows later indicating otherwise unmet informational needs behind initial contact attempt by human
+2024-12-02 09:56:06.186 | INFO     | rag:query_and_generate_response:66 - Standalone query:    
+
+Assistant: Hello
+
+However, since "Hello" or similar greetings are typically used for salutations rather than posing a specific inquiry, there isn't really an underlying 'question' in this context requiring further clarification beyond acknowledging receipt of greeting intent from User (which would be returning same). 
+
+If we must treat even such casual openings formally though - treating them hypothetically like they were leading into some unstated but implied request:
+
+"What can I assist with today?"
+
+But again note above goes well past what was actually asked; original should suffice unless more detail follows later indicating otherwise unmet informational needs behind initial contact attempt by human
+2024-12-02 09:56:06.186 | INFO     | rag:query_and_generate_response:66 - Standalone query:    
+
+Assistant: Hello
+
+However, since "Hello" or similar greetings are typically used for salutations rather than posing a specific inquiry, there isn't really an underlying 'question' in this context requiring further clarification beyond acknowledging receipt of greeting intent from User (which would be returning same). 
+
+If we must treat even such casual openings formally though - treating them hypothetically like they were leading into some unstated but implied request:
+
+"What can I assist with today?"
+
+But again note above goes well past what was actually asked; original should suffice unless more detail follows later indicating otherwise unmet informational needs behind initial contact attempt by human
+2024-12-02 09:56:06.186 | INFO     | rag:query_and_generate_response:66 - Standalone query:    
+
+Assistant: Hello
+
+However, since "Hello" or similar greetings are typically used for salutations rather than posing a specific inquiry, there isn't really an underlying 'question' in this context requiring further clarification beyond acknowledging receipt of greeting intent from User (which would be returning same). 
+
+If we must treat even such casual openings formally though - treating them hypothetically like they were leading into some unstated but implied request:
+
+"What can I assist with today?"
+
+But again note above goes well past what was actually asked; original should suffice unless more detail follows later indicating otherwise unmet informational needs behind initial contact attempt by human
+2024-12-02 09:56:06.186 | INFO     | rag:query_and_generate_response:66 - Standalone query:    
+
+Assistant: Hello
+
+However, since "Hello" or similar greetings are typically used for salutations rather than posing a specific inquiry, there isn't really an underlying 'question' in this context requiring further clarification beyond acknowledging receipt of greeting intent from User (which would be returning same). 
+
+If we must treat even such casual openings formally though - treating them hypothetically like they were leading into some unstated but implied request:
+
+"What can I assist with today?"
+
+But again note above goes well past what was actually asked; original should suffice unless more detail follows later indicating otherwise unmet informational needs behind initial contact attempt by human
+2024-12-02 09:56:06.186 | INFO     | rag:query_and_generate_response:66 - Standalone query:    
+
+Assistant: Hello
+
+However, since "Hello" or similar greetings are typically used for salutations rather than posing a specific inquiry, there isn't really an underlying 'question' in this context requiring further clarification beyond acknowledging receipt of greeting intent from User (which would be returning same). 
+
+If we must treat even such casual openings formally though - treating them hypothetically like they were leading into some unstated but implied request:
+
+"What can I assist with today?"
+
+But again note above goes well past what was actually asked; original should suffice unless more detail follows later indicating otherwise unmet informational needs behind initial contact attempt by human
+2024-12-02 09:56:06.186 | INFO     | rag:query_and_generate_response:66 - Standalone query:    
+
+Assistant: Hello
+
+However, since "Hello" or similar greetings are typically used for salutations rather than posing a specific inquiry, there isn't really an underlying 'question' in this context requiring further clarification beyond acknowledging receipt of greeting intent from User (which would be returning same). 
+
+If we must treat even such casual openings formally though - treating them hypothetically like they were leading into some unstated but implied request:
+
+"What can I assist with today?"
+
+But again note above goes well past what was actually asked; original should suffice unless more detail follows later indicating otherwise unmet informational needs behind initial contact attempt by human
+2024-12-02 09:56:06.189 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:06.189 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:06.189 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:06.189 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:06.189 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:06.189 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:06.189 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:06.190 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:06.190 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:06.190 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:06.190 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:06.190 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:06.190 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:06.190 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:13.812 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:13.812 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:13.812 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:13.812 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:13.812 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:13.812 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:56:13.812 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742f98b306d0>
+2024-12-02 09:57:34.123 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 09:57:34.123 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 09:57:34.123 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 09:57:34.123 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 09:57:34.123 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 09:57:34.123 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 09:57:34.123 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 09:57:34.123 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 09:57:34.123 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 09:57:34.647 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: Hello
+2024-12-02 09:57:34.647 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: Hello
+2024-12-02 09:57:34.647 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: Hello
+2024-12-02 09:57:34.647 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: Hello
+2024-12-02 09:57:34.647 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: Hello
+2024-12-02 09:57:34.647 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: Hello
+2024-12-02 09:57:34.647 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: Hello
+2024-12-02 09:57:34.647 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: Hello
+2024-12-02 09:57:34.647 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: Hello
+2024-12-02 09:57:34.648 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: Hello
+2024-12-02 09:57:34.648 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: Hello
+2024-12-02 09:57:34.648 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: Hello
+2024-12-02 09:57:34.648 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: Hello
+2024-12-02 09:57:34.648 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: Hello
+2024-12-02 09:57:34.648 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: Hello
+2024-12-02 09:57:34.648 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: Hello
+2024-12-02 09:57:34.648 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: Hello
+2024-12-02 09:57:34.648 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: Hello
+2024-12-02 09:57:34.650 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:34.650 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:34.650 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:34.650 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:34.650 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:34.650 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:34.650 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:34.650 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:34.650 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:34.651 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:34.651 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:34.651 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:34.651 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:34.651 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:34.651 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:34.651 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:34.651 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:34.651 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:35.605 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:35.605 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:35.605 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:35.605 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:35.605 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:35.605 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:35.605 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:35.605 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:57:35.605 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a7a0>
+2024-12-02 09:59:37.691 | INFO     | __main__:<module>:30 - Human message: Can you tell me something about history of international law
+2024-12-02 09:59:37.691 | INFO     | __main__:<module>:30 - Human message: Can you tell me something about history of international law
+2024-12-02 09:59:37.691 | INFO     | __main__:<module>:30 - Human message: Can you tell me something about history of international law
+2024-12-02 09:59:37.691 | INFO     | __main__:<module>:30 - Human message: Can you tell me something about history of international law
+2024-12-02 09:59:37.691 | INFO     | __main__:<module>:30 - Human message: Can you tell me something about history of international law
+2024-12-02 09:59:37.691 | INFO     | __main__:<module>:30 - Human message: Can you tell me something about history of international law
+2024-12-02 09:59:37.691 | INFO     | __main__:<module>:30 - Human message: Can you tell me something about history of international law
+2024-12-02 09:59:37.691 | INFO     | __main__:<module>:30 - Human message: Can you tell me something about history of international law
+2024-12-02 09:59:37.691 | INFO     | __main__:<module>:30 - Human message: Can you tell me something about history of international law
+2024-12-02 09:59:37.691 | INFO     | __main__:<module>:30 - Human message: Can you tell me something about history of international law
+2024-12-02 09:59:38.735 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.735 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.735 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.735 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.735 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.735 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.735 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.735 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.735 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.735 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.740 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.740 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.740 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.740 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.740 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.740 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.740 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.740 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.740 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.740 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What can you share regarding the historical development of international law?
+2024-12-02 09:59:38.743 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:38.743 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:38.743 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:38.743 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:38.743 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:38.743 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:38.743 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:38.743 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:38.743 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:38.743 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:38.745 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:38.745 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:38.745 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:38.745 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:38.745 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:38.745 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:38.745 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:38.745 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:38.745 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:38.745 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:44.745 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:44.745 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:44.745 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:44.745 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:44.745 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:44.745 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:44.745 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:44.745 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:44.745 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 09:59:44.745 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:16.216 | INFO     | __main__:<module>:30 - Human message: What is capital of Tajikistan?
+2024-12-02 10:00:16.216 | INFO     | __main__:<module>:30 - Human message: What is capital of Tajikistan?
+2024-12-02 10:00:16.216 | INFO     | __main__:<module>:30 - Human message: What is capital of Tajikistan?
+2024-12-02 10:00:16.216 | INFO     | __main__:<module>:30 - Human message: What is capital of Tajikistan?
+2024-12-02 10:00:16.216 | INFO     | __main__:<module>:30 - Human message: What is capital of Tajikistan?
+2024-12-02 10:00:16.216 | INFO     | __main__:<module>:30 - Human message: What is capital of Tajikistan?
+2024-12-02 10:00:16.216 | INFO     | __main__:<module>:30 - Human message: What is capital of Tajikistan?
+2024-12-02 10:00:16.216 | INFO     | __main__:<module>:30 - Human message: What is capital of Tajikistan?
+2024-12-02 10:00:16.216 | INFO     | __main__:<module>:30 - Human message: What is capital of Tajikistan?
+2024-12-02 10:00:16.216 | INFO     | __main__:<module>:30 - Human message: What is capital of Tajikistan?
+2024-12-02 10:00:16.216 | INFO     | __main__:<module>:30 - Human message: What is capital of Tajikistan?
+2024-12-02 10:00:18.322 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.322 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.322 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.322 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.322 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.322 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.322 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.322 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.322 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.322 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.322 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.326 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.326 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.326 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.326 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.326 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.326 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.326 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.326 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.326 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.326 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.326 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: 
+
+**
+
+**Rephrased Question:**  
+What city serves as the capital of Tajikistan?  
+
+**
+2024-12-02 10:00:18.327 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.327 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.327 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.327 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.327 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.327 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.327 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.327 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.327 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.327 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.327 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.329 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.329 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.329 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.329 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.329 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.329 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.329 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.329 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.329 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.329 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:18.329 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:24.002 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:24.002 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:24.002 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:24.002 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:24.002 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:24.002 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:24.002 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:24.002 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:24.002 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:24.002 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:24.002 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:53.121 | INFO     | __main__:<module>:30 - Human message: When was this city established? 
+2024-12-02 10:00:53.121 | INFO     | __main__:<module>:30 - Human message: When was this city established? 
+2024-12-02 10:00:53.121 | INFO     | __main__:<module>:30 - Human message: When was this city established? 
+2024-12-02 10:00:53.121 | INFO     | __main__:<module>:30 - Human message: When was this city established? 
+2024-12-02 10:00:53.121 | INFO     | __main__:<module>:30 - Human message: When was this city established? 
+2024-12-02 10:00:53.121 | INFO     | __main__:<module>:30 - Human message: When was this city established? 
+2024-12-02 10:00:53.121 | INFO     | __main__:<module>:30 - Human message: When was this city established? 
+2024-12-02 10:00:53.121 | INFO     | __main__:<module>:30 - Human message: When was this city established? 
+2024-12-02 10:00:53.121 | INFO     | __main__:<module>:30 - Human message: When was this city established? 
+2024-12-02 10:00:53.121 | INFO     | __main__:<module>:30 - Human message: When was this city established? 
+2024-12-02 10:00:53.121 | INFO     | __main__:<module>:30 - Human message: When was this city established? 
+2024-12-02 10:00:53.121 | INFO     | __main__:<module>:30 - Human message: When was this city established? 
+2024-12-02 10:00:59.729 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.729 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.729 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.729 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.729 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.729 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.729 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.729 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.729 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.729 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.729 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.729 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.739 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.739 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.739 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.739 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.739 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.739 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.739 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.739 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.739 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.739 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.739 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.739 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant: What year did Dushanbe become a recognized settlement or receive its official founding date?
+
+Note - The actual name 'Dushanbe' for Capital City has been used in formulating above stand-alone version but wasn't explicitly mentioned by User earlier; however considering context from Chat-History seems appropriate & necessary step towards making Question self-contained while retaining original intent behind Query posed i.e., seeking establishment timeline related information pertaining specifically toward ‘Capital’ referred within preceding exchanges (which happens be known officially named “Dushanbe”).
+However if such assumption isn’t preferred then alternative could simply read –
+"When
+2024-12-02 10:00:59.740 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.740 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.740 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.740 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.740 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.740 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.740 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.740 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.740 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.740 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.740 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.740 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.742 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.742 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.742 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.742 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.742 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.742 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.742 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.742 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.742 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.742 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.742 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:00:59.742 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:01:05.677 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:01:05.677 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:01:05.677 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:01:05.677 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:01:05.677 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:01:05.677 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:01:05.677 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:01:05.677 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:01:05.677 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:01:05.677 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:01:05.677 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:01:05.677 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x742fa8e7a6b0>
+2024-12-02 10:05:52.692 | INFO     | __main__:<module>:30 - Human message: Hello
+2024-12-02 10:05:52.692 | INFO     | __main__:<module>:30 - Human message: Hello
+2024-12-02 10:06:06.349 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant:  
+     Hello
+
+---
+
+The instruction was followed by returning 'Hello' since there wasn't a specific inquiry or statement requiring context from previous messages for clarity."
+
+However, if we were strictly adhering just based off of what I understand now - 
+
+**Revised Answer:**  
+
+    How can I assist you today?
+
+This would be more appropriate in terms of moving forward with an actual interaction after being greeted."
+But given my initial understanding following instructions verbatim leads me back again towards simply echoing `hello`.
+
+Please let know which direction suits best!
+
+For future reference though when someone says hello typically responding along lines revised version
+2024-12-02 10:06:06.349 | INFO     | rag:contextualize_query:49 - Contextualized query: Assistant:  
+     Hello
+
+---
+
+The instruction was followed by returning 'Hello' since there wasn't a specific inquiry or statement requiring context from previous messages for clarity."
+
+However, if we were strictly adhering just based off of what I understand now - 
+
+**Revised Answer:**  
+
+    How can I assist you today?
+
+This would be more appropriate in terms of moving forward with an actual interaction after being greeted."
+But given my initial understanding following instructions verbatim leads me back again towards simply echoing `hello`.
+
+Please let know which direction suits best!
+
+For future reference though when someone says hello typically responding along lines revised version
+2024-12-02 10:06:06.351 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant:  
+     Hello
+
+---
+
+The instruction was followed by returning 'Hello' since there wasn't a specific inquiry or statement requiring context from previous messages for clarity."
+
+However, if we were strictly adhering just based off of what I understand now - 
+
+**Revised Answer:**  
+
+    How can I assist you today?
+
+This would be more appropriate in terms of moving forward with an actual interaction after being greeted."
+But given my initial understanding following instructions verbatim leads me back again towards simply echoing `hello`.
+
+Please let know which direction suits best!
+
+For future reference though when someone says hello typically responding along lines revised version
+2024-12-02 10:06:06.351 | INFO     | rag:query_and_generate_response:66 - Standalone query: Assistant:  
+     Hello
+
+---
+
+The instruction was followed by returning 'Hello' since there wasn't a specific inquiry or statement requiring context from previous messages for clarity."
+
+However, if we were strictly adhering just based off of what I understand now - 
+
+**Revised Answer:**  
+
+    How can I assist you today?
+
+This would be more appropriate in terms of moving forward with an actual interaction after being greeted."
+But given my initial understanding following instructions verbatim leads me back again towards simply echoing `hello`.
+
+Please let know which direction suits best!
+
+For future reference though when someone says hello typically responding along lines revised version
+2024-12-02 10:06:06.352 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x72b5b33e5f30>
+2024-12-02 10:06:06.352 | INFO     | rag:query_and_generate_response:69 - Generated response: <generator object RunnableSequence.stream at 0x72b5b33e5f30>
+2024-12-02 10:06:06.354 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x72b5b33e5f30>
+2024-12-02 10:06:06.354 | INFO     | rag:query_and_generate_response:73 - Generated response: <generator object RunnableSequence.stream at 0x72b5b33e5f30>
+2024-12-02 10:06:11.816 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x72b5b33e5f30>
+2024-12-02 10:06:11.816 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x72b5b33e5f30>
+2024-12-02 10:10:44.799 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:10:44.799 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:10:44.799 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:10:44.799 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:15:27.409 | INFO     | __main__:<module>:30 - Human message: Hello
+2024-12-02 10:15:27.409 | INFO     | __main__:<module>:30 - Human message: Hello
+2024-12-02 10:15:34.393 | INFO     | rag:contextualize_query:59 - Contextualized query:  Hello
+
+
+
+2024-12-02 10:15:34.393 | INFO     | rag:contextualize_query:59 - Contextualized query:  Hello
+
+
+
+2024-12-02 10:15:34.395 | INFO     | rag:query_and_generate_response:76 - Standalone query:  Hello
+
+
+
+2024-12-02 10:15:34.395 | INFO     | rag:query_and_generate_response:76 - Standalone query:  Hello
+
+
+
+2024-12-02 10:15:34.397 | INFO     | rag:query_and_generate_response:79 - Generated response: <generator object RunnableSequence.stream at 0x7c14cfa29f30>
+2024-12-02 10:15:34.397 | INFO     | rag:query_and_generate_response:79 - Generated response: <generator object RunnableSequence.stream at 0x7c14cfa29f30>
+2024-12-02 10:15:34.399 | INFO     | rag:query_and_generate_response:83 - Generated response: <generator object RunnableSequence.stream at 0x7c14cfa29f30>
+2024-12-02 10:15:34.399 | INFO     | rag:query_and_generate_response:83 - Generated response: <generator object RunnableSequence.stream at 0x7c14cfa29f30>
+2024-12-02 10:15:37.088 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x7c14cfa29f30>
+2024-12-02 10:15:37.088 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x7c14cfa29f30>
+2024-12-02 10:16:13.013 | INFO     | __main__:<module>:30 - Human message: What is the Capital of Tajikistan
+2024-12-02 10:16:13.013 | INFO     | __main__:<module>:30 - Human message: What is the Capital of Tajikistan
+2024-12-02 10:16:13.013 | INFO     | __main__:<module>:30 - Human message: What is the Capital of Tajikistan
+2024-12-02 10:16:14.295 | INFO     | rag:contextualize_query:59 - Contextualized query:   
+
+
+
+2024-12-02 10:16:14.295 | INFO     | rag:contextualize_query:59 - Contextualized query:   
+
+
+
+2024-12-02 10:16:14.295 | INFO     | rag:contextualize_query:59 - Contextualized query:   
+
+
+
+2024-12-02 10:16:14.296 | INFO     | rag:query_and_generate_response:76 - Standalone query:   
+
+
+
+2024-12-02 10:16:14.296 | INFO     | rag:query_and_generate_response:76 - Standalone query:   
+
+
+
+2024-12-02 10:16:14.296 | INFO     | rag:query_and_generate_response:76 - Standalone query:   
+
+
+
+2024-12-02 10:16:14.297 | INFO     | rag:query_and_generate_response:79 - Generated response: <generator object RunnableSequence.stream at 0x7c14cfa2bd30>
+2024-12-02 10:16:14.297 | INFO     | rag:query_and_generate_response:79 - Generated response: <generator object RunnableSequence.stream at 0x7c14cfa2bd30>
+2024-12-02 10:16:14.297 | INFO     | rag:query_and_generate_response:79 - Generated response: <generator object RunnableSequence.stream at 0x7c14cfa2bd30>
+2024-12-02 10:16:14.297 | INFO     | rag:query_and_generate_response:83 - Generated response: <generator object RunnableSequence.stream at 0x7c14cfa2bd30>
+2024-12-02 10:16:14.297 | INFO     | rag:query_and_generate_response:83 - Generated response: <generator object RunnableSequence.stream at 0x7c14cfa2bd30>
+2024-12-02 10:16:14.297 | INFO     | rag:query_and_generate_response:83 - Generated response: <generator object RunnableSequence.stream at 0x7c14cfa2bd30>
+2024-12-02 10:16:18.167 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x7c14cfa2bd30>
+2024-12-02 10:16:18.167 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x7c14cfa2bd30>
+2024-12-02 10:16:18.167 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x7c14cfa2bd30>
+2024-12-02 10:17:03.724 | INFO     | __main__:<module>:30 - Human message: Hello, can u tell me what is capital of tajikistan
+2024-12-02 10:17:03.724 | INFO     | __main__:<module>:30 - Human message: Hello, can u tell me what is capital of tajikistan
+2024-12-02 10:17:03.724 | INFO     | __main__:<module>:30 - Human message: Hello, can u tell me what is capital of tajikistan
+2024-12-02 10:17:03.724 | INFO     | __main__:<module>:30 - Human message: Hello, can u tell me what is capital of tajikistan
+2024-12-02 10:17:03.724 | INFO     | __main__:<module>:30 - Human message: Hello, can u tell me what is capital of tajikistan
+2024-12-02 10:17:04.377 | INFO     | rag:contextualize_query:59 - Contextualized query: What is the capital city of Tajikistan?
+
+
+
+2024-12-02 10:17:04.377 | INFO     | rag:contextualize_query:59 - Contextualized query: What is the capital city of Tajikistan?
+
+
+
+2024-12-02 10:17:04.377 | INFO     | rag:contextualize_query:59 - Contextualized query: What is the capital city of Tajikistan?
+
+
+
+2024-12-02 10:17:04.377 | INFO     | rag:contextualize_query:59 - Contextualized query: What is the capital city of Tajikistan?
+
+
+
+2024-12-02 10:17:04.377 | INFO     | rag:contextualize_query:59 - Contextualized query: What is the capital city of Tajikistan?
+
+
+
+2024-12-02 10:17:04.381 | INFO     | rag:query_and_generate_response:76 - Standalone query: What is the capital city of Tajikistan?
+
+
+
+2024-12-02 10:17:04.381 | INFO     | rag:query_and_generate_response:76 - Standalone query: What is the capital city of Tajikistan?
+
+
+
+2024-12-02 10:17:04.381 | INFO     | rag:query_and_generate_response:76 - Standalone query: What is the capital city of Tajikistan?
+
+
+
+2024-12-02 10:17:04.381 | INFO     | rag:query_and_generate_response:76 - Standalone query: What is the capital city of Tajikistan?
+
+
+
+2024-12-02 10:17:04.381 | INFO     | rag:query_and_generate_response:76 - Standalone query: What is the capital city of Tajikistan?
+
+
+
+2024-12-02 10:17:04.384 | INFO     | rag:query_and_generate_response:79 - Generated response: <generator object RunnableSequence.stream at 0x7c14e3786890>
+2024-12-02 10:17:04.384 | INFO     | rag:query_and_generate_response:79 - Generated response: <generator object RunnableSequence.stream at 0x7c14e3786890>
+2024-12-02 10:17:04.384 | INFO     | rag:query_and_generate_response:79 - Generated response: <generator object RunnableSequence.stream at 0x7c14e3786890>
+2024-12-02 10:17:04.384 | INFO     | rag:query_and_generate_response:79 - Generated response: <generator object RunnableSequence.stream at 0x7c14e3786890>
+2024-12-02 10:17:04.384 | INFO     | rag:query_and_generate_response:79 - Generated response: <generator object RunnableSequence.stream at 0x7c14e3786890>
+2024-12-02 10:17:04.388 | INFO     | rag:query_and_generate_response:83 - Generated response: <generator object RunnableSequence.stream at 0x7c14e3786890>
+2024-12-02 10:17:04.388 | INFO     | rag:query_and_generate_response:83 - Generated response: <generator object RunnableSequence.stream at 0x7c14e3786890>
+2024-12-02 10:17:04.388 | INFO     | rag:query_and_generate_response:83 - Generated response: <generator object RunnableSequence.stream at 0x7c14e3786890>
+2024-12-02 10:17:04.388 | INFO     | rag:query_and_generate_response:83 - Generated response: <generator object RunnableSequence.stream at 0x7c14e3786890>
+2024-12-02 10:17:04.388 | INFO     | rag:query_and_generate_response:83 - Generated response: <generator object RunnableSequence.stream at 0x7c14e3786890>
+2024-12-02 10:17:31.723 | INFO     | __main__:<module>:30 - Human message: So?
+2024-12-02 10:17:31.723 | INFO     | __main__:<module>:30 - Human message: So?
+2024-12-02 10:17:31.723 | INFO     | __main__:<module>:30 - Human message: So?
+2024-12-02 10:17:31.723 | INFO     | __main__:<module>:30 - Human message: So?
+2024-12-02 10:17:31.723 | INFO     | __main__:<module>:30 - Human message: So?
+2024-12-02 10:17:31.723 | INFO     | __main__:<module>:30 - Human message: So?
+2024-12-02 10:18:48.422 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:18:48.422 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:18:48.422 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:18:48.422 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:18:48.422 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:18:48.422 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:18:48.422 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:18:48.422 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:18:48.422 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:18:50.367 | INFO     | rag:query_and_generate_response:75 - Standalone query: ```python
+
+
+# Your code goes here  
+
+
+
+print("Hello") # This line should be removed in final submission
+
+
+
+
+ ```
+2024-12-02 10:18:50.367 | INFO     | rag:query_and_generate_response:75 - Standalone query: ```python
+
+
+# Your code goes here  
+
+
+
+print("Hello") # This line should be removed in final submission
+
+
+
+
+ ```
+2024-12-02 10:18:50.367 | INFO     | rag:query_and_generate_response:75 - Standalone query: ```python
+
+
+# Your code goes here  
+
+
+
+print("Hello") # This line should be removed in final submission
+
+
+
+
+ ```
+2024-12-02 10:18:50.367 | INFO     | rag:query_and_generate_response:75 - Standalone query: ```python
+
+
+# Your code goes here  
+
+
+
+print("Hello") # This line should be removed in final submission
+
+
+
+
+ ```
+2024-12-02 10:18:50.367 | INFO     | rag:query_and_generate_response:75 - Standalone query: ```python
+
+
+# Your code goes here  
+
+
+
+print("Hello") # This line should be removed in final submission
+
+
+
+
+ ```
+2024-12-02 10:18:50.367 | INFO     | rag:query_and_generate_response:75 - Standalone query: ```python
+
+
+# Your code goes here  
+
+
+
+print("Hello") # This line should be removed in final submission
+
+
+
+
+ ```
+2024-12-02 10:18:50.367 | INFO     | rag:query_and_generate_response:75 - Standalone query: ```python
+
+
+# Your code goes here  
+
+
+
+print("Hello") # This line should be removed in final submission
+
+
+
+
+ ```
+2024-12-02 10:18:50.367 | INFO     | rag:query_and_generate_response:75 - Standalone query: ```python
+
+
+# Your code goes here  
+
+
+
+print("Hello") # This line should be removed in final submission
+
+
+
+
+ ```
+2024-12-02 10:18:50.367 | INFO     | rag:query_and_generate_response:75 - Standalone query: ```python
+
+
+# Your code goes here  
+
+
+
+print("Hello") # This line should be removed in final submission
+
+
+
+
+ ```
+2024-12-02 10:18:50.373 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7689a0>
+2024-12-02 10:18:50.373 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7689a0>
+2024-12-02 10:18:50.373 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7689a0>
+2024-12-02 10:18:50.373 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7689a0>
+2024-12-02 10:18:50.373 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7689a0>
+2024-12-02 10:18:50.373 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7689a0>
+2024-12-02 10:18:50.373 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7689a0>
+2024-12-02 10:18:50.373 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7689a0>
+2024-12-02 10:18:50.373 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7689a0>
+2024-12-02 10:18:50.380 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7689a0>
+2024-12-02 10:18:50.380 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7689a0>
+2024-12-02 10:18:50.380 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7689a0>
+2024-12-02 10:18:50.380 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7689a0>
+2024-12-02 10:18:50.380 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7689a0>
+2024-12-02 10:18:50.380 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7689a0>
+2024-12-02 10:18:50.380 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7689a0>
+2024-12-02 10:18:50.380 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7689a0>
+2024-12-02 10:18:50.380 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7689a0>
+2024-12-02 10:19:29.314 | INFO     | __main__:<module>:30 - Human message: What is the law of the sea about
+2024-12-02 10:19:29.314 | INFO     | __main__:<module>:30 - Human message: What is the law of the sea about
+2024-12-02 10:19:29.314 | INFO     | __main__:<module>:30 - Human message: What is the law of the sea about
+2024-12-02 10:19:29.314 | INFO     | __main__:<module>:30 - Human message: What is the law of the sea about
+2024-12-02 10:19:29.314 | INFO     | __main__:<module>:30 - Human message: What is the law of the sea about
+2024-12-02 10:19:29.314 | INFO     | __main__:<module>:30 - Human message: What is the law of the sea about
+2024-12-02 10:19:29.314 | INFO     | __main__:<module>:30 - Human message: What is the law of the sea about
+2024-12-02 10:19:29.314 | INFO     | __main__:<module>:30 - Human message: What is the law of the sea about
+2024-12-02 10:19:29.314 | INFO     | __main__:<module>:30 - Human message: What is the law of the sea about
+2024-12-02 10:19:29.314 | INFO     | __main__:<module>:30 - Human message: What is the law of the sea about
+2024-12-02 10:19:30.258 | INFO     | rag:query_and_generate_response:75 - Standalone query:   Rephrased Question : What are the main principles or aspects covered by international maritime law?
+
+
+
+2024-12-02 10:19:30.258 | INFO     | rag:query_and_generate_response:75 - Standalone query:   Rephrased Question : What are the main principles or aspects covered by international maritime law?
+
+
+
+2024-12-02 10:19:30.258 | INFO     | rag:query_and_generate_response:75 - Standalone query:   Rephrased Question : What are the main principles or aspects covered by international maritime law?
+
+
+
+2024-12-02 10:19:30.258 | INFO     | rag:query_and_generate_response:75 - Standalone query:   Rephrased Question : What are the main principles or aspects covered by international maritime law?
+
+
+
+2024-12-02 10:19:30.258 | INFO     | rag:query_and_generate_response:75 - Standalone query:   Rephrased Question : What are the main principles or aspects covered by international maritime law?
+
+
+
+2024-12-02 10:19:30.258 | INFO     | rag:query_and_generate_response:75 - Standalone query:   Rephrased Question : What are the main principles or aspects covered by international maritime law?
+
+
+
+2024-12-02 10:19:30.258 | INFO     | rag:query_and_generate_response:75 - Standalone query:   Rephrased Question : What are the main principles or aspects covered by international maritime law?
+
+
+
+2024-12-02 10:19:30.258 | INFO     | rag:query_and_generate_response:75 - Standalone query:   Rephrased Question : What are the main principles or aspects covered by international maritime law?
+
+
+
+2024-12-02 10:19:30.258 | INFO     | rag:query_and_generate_response:75 - Standalone query:   Rephrased Question : What are the main principles or aspects covered by international maritime law?
+
+
+
+2024-12-02 10:19:30.258 | INFO     | rag:query_and_generate_response:75 - Standalone query:   Rephrased Question : What are the main principles or aspects covered by international maritime law?
+
+
+
+2024-12-02 10:19:30.264 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:19:30.264 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:19:30.264 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:19:30.264 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:19:30.264 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:19:30.264 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:19:30.264 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:19:30.264 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:19:30.264 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:19:30.264 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:19:30.265 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:19:30.265 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:19:30.265 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:19:30.265 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:19:30.265 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:19:30.265 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:19:30.265 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:19:30.265 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:19:30.265 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:19:30.265 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c14cc7693f0>
+2024-12-02 10:20:40.896 | INFO     | __main__:<module>:30 - Human message: so can u asnwer previous question?
+2024-12-02 10:20:40.896 | INFO     | __main__:<module>:30 - Human message: so can u asnwer previous question?
+2024-12-02 10:20:40.896 | INFO     | __main__:<module>:30 - Human message: so can u asnwer previous question?
+2024-12-02 10:20:40.896 | INFO     | __main__:<module>:30 - Human message: so can u asnwer previous question?
+2024-12-02 10:20:40.896 | INFO     | __main__:<module>:30 - Human message: so can u asnwer previous question?
+2024-12-02 10:20:40.896 | INFO     | __main__:<module>:30 - Human message: so can u asnwer previous question?
+2024-12-02 10:20:40.896 | INFO     | __main__:<module>:30 - Human message: so can u asnwer previous question?
+2024-12-02 10:20:40.896 | INFO     | __main__:<module>:30 - Human message: so can u asnwer previous question?
+2024-12-02 10:20:40.896 | INFO     | __main__:<module>:30 - Human message: so can u asnwer previous question?
+2024-12-02 10:20:40.896 | INFO     | __main__:<module>:30 - Human message: so can u asnwer previous question?
+2024-12-02 10:20:40.896 | INFO     | __main__:<module>:30 - Human message: so can u asnwer previous question?
+2024-12-02 10:28:46.308 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:28:46.308 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:28:47.544 | INFO     | rag:query_and_generate_response:75 - Standalone query: ```python
+
+
+# Your code goes here  
+
+
+
+print("Hello") # This line should be removed in final submission
+
+
+
+
+ ```
+2024-12-02 10:28:47.544 | INFO     | rag:query_and_generate_response:75 - Standalone query: ```python
+
+
+# Your code goes here  
+
+
+
+print("Hello") # This line should be removed in final submission
+
+
+
+
+ ```
+2024-12-02 10:28:47.545 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7d3a75036e30>
+2024-12-02 10:28:47.545 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7d3a75036e30>
+2024-12-02 10:28:47.545 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7d3a75036e30>
+2024-12-02 10:28:47.545 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7d3a75036e30>
+2024-12-02 10:33:01.101 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:33:01.101 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:33:01.101 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:33:01.101 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:33:01.364 | INFO     | rag:query_and_generate_response:75 - Standalone query: ```python
+
+
+# Your code goes here  
+
+
+
+print("Hello") # This line should be removed in final submission
+
+
+
+
+ ```
+2024-12-02 10:33:01.364 | INFO     | rag:query_and_generate_response:75 - Standalone query: ```python
+
+
+# Your code goes here  
+
+
+
+print("Hello") # This line should be removed in final submission
+
+
+
+
+ ```
+2024-12-02 10:33:01.364 | INFO     | rag:query_and_generate_response:75 - Standalone query: ```python
+
+
+# Your code goes here  
+
+
+
+print("Hello") # This line should be removed in final submission
+
+
+
+
+ ```
+2024-12-02 10:33:01.364 | INFO     | rag:query_and_generate_response:75 - Standalone query: ```python
+
+
+# Your code goes here  
+
+
+
+print("Hello") # This line should be removed in final submission
+
+
+
+
+ ```
+2024-12-02 10:33:01.367 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7d3a746e9300>
+2024-12-02 10:33:01.367 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7d3a746e9300>
+2024-12-02 10:33:01.367 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7d3a746e9300>
+2024-12-02 10:33:01.367 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7d3a746e9300>
+2024-12-02 10:33:01.369 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7d3a746e9300>
+2024-12-02 10:33:01.369 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7d3a746e9300>
+2024-12-02 10:33:01.369 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7d3a746e9300>
+2024-12-02 10:33:01.369 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7d3a746e9300>
+2024-12-02 10:34:32.834 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:34:32.834 | INFO     | __main__:<module>:30 - Human message: hello
+2024-12-02 10:34:39.716 | INFO     | rag:query_and_generate_response:75 - Standalone query: ```python
+
+
+# Your code goes here  
+
+
+
+print("Hello") # This line should be removed in final submission
+
+
+
+
+ ```
+2024-12-02 10:34:39.716 | INFO     | rag:query_and_generate_response:75 - Standalone query: ```python
+
+
+# Your code goes here  
+
+
+
+print("Hello") # This line should be removed in final submission
+
+
+
+
+ ```
+2024-12-02 10:34:39.716 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c28dec2e6b0>
+2024-12-02 10:34:39.716 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c28dec2e6b0>
+2024-12-02 10:34:39.717 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c28dec2e6b0>
+2024-12-02 10:34:39.717 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c28dec2e6b0>
+2024-12-02 10:34:44.985 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x7c28dec2e6b0>
+2024-12-02 10:34:44.985 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x7c28dec2e6b0>
+2024-12-02 10:35:52.299 | INFO     | __main__:<module>:30 - Human message: When and where was Viena convention hold
+2024-12-02 10:35:52.299 | INFO     | __main__:<module>:30 - Human message: When and where was Viena convention hold
+2024-12-02 10:35:52.299 | INFO     | __main__:<module>:30 - Human message: When and where was Viena convention hold
+2024-12-02 10:35:52.299 | INFO     | __main__:<module>:30 - Human message: When and where was Viena convention hold
+2024-12-02 10:35:53.090 | INFO     | rag:query_and_generate_response:75 - Standalone query:   What are the date and location of the Vienna Convention?
+
+
+
+2024-12-02 10:35:53.090 | INFO     | rag:query_and_generate_response:75 - Standalone query:   What are the date and location of the Vienna Convention?
+
+
+
+2024-12-02 10:35:53.090 | INFO     | rag:query_and_generate_response:75 - Standalone query:   What are the date and location of the Vienna Convention?
+
+
+
+2024-12-02 10:35:53.090 | INFO     | rag:query_and_generate_response:75 - Standalone query:   What are the date and location of the Vienna Convention?
+
+
+
+2024-12-02 10:35:53.094 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c28dec2d120>
+2024-12-02 10:35:53.094 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c28dec2d120>
+2024-12-02 10:35:53.094 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c28dec2d120>
+2024-12-02 10:35:53.094 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c28dec2d120>
+2024-12-02 10:35:53.098 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c28dec2d120>
+2024-12-02 10:35:53.098 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c28dec2d120>
+2024-12-02 10:35:53.098 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c28dec2d120>
+2024-12-02 10:35:53.098 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c28dec2d120>
+2024-12-02 10:36:03.075 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x7c28dec2d120>
+2024-12-02 10:36:03.075 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x7c28dec2d120>
+2024-12-02 10:36:03.075 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x7c28dec2d120>
+2024-12-02 10:36:03.075 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x7c28dec2d120>
+2024-12-02 10:36:16.468 | INFO     | __main__:<module>:30 - Human message: can u tell me what is the capital of tajikistan
+2024-12-02 10:36:16.468 | INFO     | __main__:<module>:30 - Human message: can u tell me what is the capital of tajikistan
+2024-12-02 10:36:16.468 | INFO     | __main__:<module>:30 - Human message: can u tell me what is the capital of tajikistan
+2024-12-02 10:36:16.468 | INFO     | __main__:<module>:30 - Human message: can u tell me what is the capital of tajikistan
+2024-12-02 10:36:16.468 | INFO     | __main__:<module>:30 - Human message: can u tell me what is the capital of tajikistan
+2024-12-02 10:36:17.209 | INFO     | rag:query_and_generate_response:75 - Standalone query: What is the capital city of Tajikistan?
+
+
+
+2024-12-02 10:36:17.209 | INFO     | rag:query_and_generate_response:75 - Standalone query: What is the capital city of Tajikistan?
+
+
+
+2024-12-02 10:36:17.209 | INFO     | rag:query_and_generate_response:75 - Standalone query: What is the capital city of Tajikistan?
+
+
+
+2024-12-02 10:36:17.209 | INFO     | rag:query_and_generate_response:75 - Standalone query: What is the capital city of Tajikistan?
+
+
+
+2024-12-02 10:36:17.209 | INFO     | rag:query_and_generate_response:75 - Standalone query: What is the capital city of Tajikistan?
+
+
+
+2024-12-02 10:36:17.213 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c28f1cb9030>
+2024-12-02 10:36:17.213 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c28f1cb9030>
+2024-12-02 10:36:17.213 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c28f1cb9030>
+2024-12-02 10:36:17.213 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c28f1cb9030>
+2024-12-02 10:36:17.213 | INFO     | rag:query_and_generate_response:78 - Generated response: <generator object RunnableSequence.stream at 0x7c28f1cb9030>
+2024-12-02 10:36:17.218 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c28f1cb9030>
+2024-12-02 10:36:17.218 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c28f1cb9030>
+2024-12-02 10:36:17.218 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c28f1cb9030>
+2024-12-02 10:36:17.218 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c28f1cb9030>
+2024-12-02 10:36:17.218 | INFO     | rag:query_and_generate_response:82 - Generated response: <generator object RunnableSequence.stream at 0x7c28f1cb9030>
+2024-12-02 10:36:20.413 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x7c28f1cb9030>
+2024-12-02 10:36:20.413 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x7c28f1cb9030>
+2024-12-02 10:36:20.413 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x7c28f1cb9030>
+2024-12-02 10:36:20.413 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x7c28f1cb9030>
+2024-12-02 10:36:20.413 | INFO     | __main__:<module>:38 - AI response: <generator object RunnableSequence.stream at 0x7c28f1cb9030>
